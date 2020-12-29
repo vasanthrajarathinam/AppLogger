@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>VDigi.AppLogger</PackageId>
+    <Authors>Vasanth</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>logging, logger</PackageTags>
+    <RepositoryUrl>https://github.com/vasanthrajarathinam/AppLoggera</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
